@@ -1,4 +1,0 @@
-D:/QtProjects/Video-player/build-video-player-Desktop-Debug/CMakeFiles/video-player.dir
-D:/QtProjects/Video-player/build-video-player-Desktop-Debug/CMakeFiles/edit_cache.dir
-D:/QtProjects/Video-player/build-video-player-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-D:/QtProjects/Video-player/build-video-player-Desktop-Debug/CMakeFiles/video-player_autogen.dir
